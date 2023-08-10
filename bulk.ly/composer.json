@@ -10,7 +10,7 @@
         "guzzlehttp/guzzle": "^6.2",
         "guzzlehttp/oauth-subscriber": "^0.3.0",
         "laravel/cashier": "^7.0",
-        "laravel/framework": "5.4.*",
+        "laravel/framework": "5.8.*",
         "laravel/tinker": "~1.0",
         "uxweb/sweet-alert": "^2.0"
     },
